@@ -1,0 +1,1400 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "properties" : {
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 0, 0 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/9363990.jpg",
+      "name" : "Marble Cave",
+      "web" : "http://www.panoramio.com/photo/9363990",
+      "upload_date" : "14 April 2008",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -72.607527, -46.647138 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/522084.jpg",
+      "name" : "In Memoriam Antoine de Saint-Exupéry",
+      "web" : "http://www.panoramio.com/photo/522084",
+      "upload_date" : "21 January 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 17.470493, 47.867077 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/1289207.jpg",
+      "name" : "Silouette",
+      "web" : "http://www.panoramio.com/photo/1289207",
+      "upload_date" : "12 March 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -4.019966, 31.187546 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/46817885.jpg",
+      "name" : "Dusk in Tufulega, Futuna Island",
+      "web" : "http://www.panoramio.com/photo/46817885",
+      "upload_date" : "20 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -178.137093, -14.310613 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/532693.jpg",
+      "name" : "Wheatfield in afternoon light",
+      "web" : "http://www.panoramio.com/photo/532693",
+      "upload_date" : "22 January 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.278067, 59.644716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/72997452.jpg",
+      "name" : "Awesome Earth!  Jordan  ....{by Bassam}",
+      "web" : "http://www.panoramio.com/photo/72997452",
+      "upload_date" : "31 May 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.93307, 32.611584 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/55228074.jpg",
+      "name" : "کلوت شهداد بزرگترین شهر کلوخی دنیا در بیابان لوت 'Kalut' in Lut Desert, To all European Panoramio members. Info 1st comment  ",
+      "web" : "http://www.panoramio.com/photo/55228074",
+      "upload_date" : "04 July 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.773236999999995, 30.792723 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/25514.jpg",
+      "name" : "Arenal",
+      "web" : "http://www.panoramio.com/photo/25514",
+      "upload_date" : "17 June 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -84.693431854248, 10.479372089916 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/54671525.jpg",
+      "name" : "< Honorable mention Heritage June 2011 > Golden Sunrise with Ice Water Snow Reflection - Jacobson Park (Lexington, KY) Winter 2011",
+      "web" : "http://www.panoramio.com/photo/54671525",
+      "upload_date" : "24 June 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -84.4323188, 37.9909035 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/9439.jpg",
+      "name" : "Bora Bora",
+      "web" : "http://www.panoramio.com/photo/9439",
+      "upload_date" : "02 February 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -151.609611, -16.456336 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/79639560.jpg",
+      "name" : "Moscow - Москва - St. Basil's Cathedral   - Покровский собор",
+      "web" : "http://www.panoramio.com/photo/79639560",
+      "upload_date" : "27 September 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 37.622532, 55.753527 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48664728.jpg",
+      "name" : "Tanindrazana cycle I - \"Reniala\", the mother of forest",
+      "web" : "http://www.panoramio.com/photo/48664728",
+      "upload_date" : "25 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 44.420642999999984, -20.250828 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/54556117.jpg",
+      "name" : "Atardecer Riviera  Nayarit by Mel Figueroa ",
+      "web" : "http://www.panoramio.com/photo/54556117",
+      "upload_date" : "22 June 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -105.456562, 20.752853 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/43226080.jpg",
+      "name" : "ULURU",
+      "web" : "http://www.panoramio.com/photo/43226080",
+      "upload_date" : "04 November 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 131.00998900000002, -25.346405 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/40665398.jpg",
+      "name" : " Sunset -Taiwan 日落",
+      "web" : "http://www.panoramio.com/photo/40665398",
+      "upload_date" : "12 September 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 120.719673157, 24.3936901093 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/1516726.jpg",
+      "name" : "Облако над вулканом Камень. Cloud above the volcano Kamen",
+      "web" : "http://www.panoramio.com/photo/1516726",
+      "upload_date" : "27 March 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 160.587502, 56.081999 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/64003582.jpg",
+      "name" : "Reflexo",
+      "web" : "http://www.panoramio.com/photo/64003582",
+      "upload_date" : "26 December 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -48.532233, -25.813993 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48548894.jpg",
+      "name" : "Langkawi Cenang Beach ( Feb First Prize, 2011)",
+      "web" : "http://www.panoramio.com/photo/48548894",
+      "upload_date" : "23 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 99.719124, 6.300796 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/665502.jpg",
+      "name" : "Sunset Beach Walker",
+      "web" : "http://www.panoramio.com/photo/665502",
+      "upload_date" : "03 February 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -124.07752990723, 44.519887615685 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/2584132.jpg",
+      "name" : "Farm Tomita",
+      "web" : "http://www.panoramio.com/photo/2584132",
+      "upload_date" : "05 June 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 142.426586, 43.418889 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/33974683.jpg",
+      "name" : "Agra Taj Mahal (Palazzo della Corona) - Old slide digitized",
+      "web" : "http://www.panoramio.com/photo/33974683",
+      "upload_date" : "04 April 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 78.042122, 27.173272 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/81432101.jpg",
+      "name" : "Quiberon  ",
+      "web" : "http://www.panoramio.com/photo/81432101",
+      "upload_date" : "01 November 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -3.086078, 47.470443 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/120844.jpg",
+      "name" : "Adelie-Prat- Kratzmaier",
+      "web" : "http://www.panoramio.com/photo/120844",
+      "upload_date" : "12 December 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -59.683228, -62.485684 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/47949823.jpg",
+      "name" : "island in the sun",
+      "web" : "http://www.panoramio.com/photo/47949823",
+      "upload_date" : "11 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 79.968635, 6.462597 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/10895432.jpg",
+      "name" : "Карагайская сосна / To live!",
+      "web" : "http://www.panoramio.com/photo/10895432",
+      "upload_date" : "04 June 2008",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 57.886791, 51.644708 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/46890489.jpg",
+      "name" : "Ilulissat Icefjord - UNESCO World Heritage",
+      "web" : "http://www.panoramio.com/photo/46890489",
+      "upload_date" : "21 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -51.131304, 69.22634 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/6126294.jpg",
+      "name" : "Richmond Deer",
+      "web" : "http://www.panoramio.com/photo/6126294",
+      "upload_date" : "25 November 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -0.27519464492798, 51.44588987567 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/97671.jpg",
+      "name" : "kin-dza-dza",
+      "web" : "http://www.panoramio.com/photo/97671",
+      "upload_date" : "09 December 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.78603, 46.638704 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/10574161.jpg",
+      "name" : "SILHOUETTE",
+      "web" : "http://www.panoramio.com/photo/10574161",
+      "upload_date" : "25 May 2008",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 148.661664, -35.30916 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/57823.jpg",
+      "name" : "Maria Alm",
+      "web" : "http://www.panoramio.com/photo/57823",
+      "upload_date" : "05 October 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.902648, 47.404769 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/27932.jpg",
+      "name" : "Atardecer en Embalse",
+      "web" : "http://www.panoramio.com/photo/27932",
+      "upload_date" : "25 June 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -64.404945, -32.202924 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/204924.jpg",
+      "name" : "zaldiak",
+      "web" : "http://www.panoramio.com/photo/204924",
+      "upload_date" : "21 December 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -1.806951, 43.24514 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/72223854.jpg",
+      "name" : "Храм Светог Саве ❖ Saint Sava Temple",
+      "web" : "http://www.panoramio.com/photo/72223854",
+      "upload_date" : "17 May 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 20.46728, 44.797856 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48619132.jpg",
+      "name" : "Laghi Revine dal monte Pizzoc ",
+      "web" : "http://www.panoramio.com/photo/48619132",
+      "upload_date" : "24 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.346476, 46.038832 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/45214668.jpg",
+      "name" : "MIENTRAS QUEDE UN REFLEJO HABRA UNA FOTO < 1st Prize  Scenery December 2010 >",
+      "web" : "http://www.panoramio.com/photo/45214668",
+      "upload_date" : "18 December 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -0.619998, 38.178076 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/346269.jpg",
+      "name" : "italy-toscany",
+      "web" : "http://www.panoramio.com/photo/346269",
+      "upload_date" : "08 January 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 11.616282, 43.064389 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/233619.jpg",
+      "name" : "Warsaw Bridge 01 [www.wierzchon.com]",
+      "web" : "http://www.panoramio.com/photo/233619",
+      "upload_date" : "25 December 2006",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.035728, 52.242353 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/1578881.jpg",
+      "name" : "Rosina Lamberti,Sunset,Templestowe , Victoria, Australia",
+      "web" : "http://www.panoramio.com/photo/1578881",
+      "upload_date" : "01 April 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 145.14187200000003, -37.76634 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/46622512.jpg",
+      "name" : "Güne veda * 'Sunset & Silhouette' * Olympist ©",
+      "web" : "http://www.panoramio.com/photo/46622512",
+      "upload_date" : "16 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.010954999999996, 41.016838 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/53616634.jpg",
+      "name" : "5 Trees - für feldt ",
+      "web" : "http://www.panoramio.com/photo/53616634",
+      "upload_date" : "02 June 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.717415, 49.211598 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/62309500.jpg",
+      "name" : "Luminous Contrails (By Younes  Leysi)",
+      "web" : "http://www.panoramio.com/photo/62309500",
+      "upload_date" : "17 November 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -82.5844, 42.019234 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48482258.jpg",
+      "name" : "Way into the unknown",
+      "web" : "http://www.panoramio.com/photo/48482258",
+      "upload_date" : "21 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 12.219414999999998, 55.425227 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/901470.jpg",
+      "name" : "#14 Holdfényölelés - Moonlight cuddle - Horvátország",
+      "web" : "http://www.panoramio.com/photo/901470",
+      "upload_date" : "19 February 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 15.963591, 43.633753 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/10321724.jpg",
+      "name" : "Kingston Lacy beech avenue from the middle of the road (don't try this at home...)",
+      "web" : "http://www.panoramio.com/photo/10321724",
+      "upload_date" : "17 May 2008",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -2.051697, 50.820469 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/43038943.jpg",
+      "name" : "Ypi-ra-ouêra - SP - BRASIL.>>Honorable Mention November 2010<< por AntonioJVidaL",
+      "web" : "http://www.panoramio.com/photo/43038943",
+      "upload_date" : "01 November 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -46.66235399999999, -23.582656 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/64292484.jpg",
+      "name" : "The eternity of the rocks! (Meteora - Greece)",
+      "web" : "http://www.panoramio.com/photo/64292484",
+      "upload_date" : "02 January 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 21.633925000000005, 39.721085 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/86457253.jpg",
+      "name" : "Burj Al Arab, Dubai",
+      "web" : "http://www.panoramio.com/photo/86457253",
+      "upload_date" : "22 February 2013",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 55.191755, 25.144715 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/37906460.jpg",
+      "name" : "آتشفشان دماوند در آتش غروب، تقدیم به ایرانیان Damavand or Diamond, to dear Iranian, Polur, Mazandaran, Iran",
+      "web" : "http://www.panoramio.com/photo/37906460",
+      "upload_date" : "14 July 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 52.109056, 35.955082 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/44144104.jpg",
+      "name" : "Welcome to the Navajo Nation's Monument Valley Park (please wide open to enjoy the show)",
+      "web" : "http://www.panoramio.com/photo/44144104",
+      "upload_date" : "24 November 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -110.029535, 36.967655 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/61964867.jpg",
+      "name" : "Sunset in winter",
+      "web" : "http://www.panoramio.com/photo/61964867",
+      "upload_date" : "10 November 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 23.743247, 37.981856 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48681366.jpg",
+      "name" : "A new day has come_ Honorable Mention february 2011 NPC_ Thank you so much PANORAMIO FRIENDS",
+      "web" : "http://www.panoramio.com/photo/48681366",
+      "upload_date" : "26 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.540808, 45.800167 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/46510404.jpg",
+      "name" : "So much fresh water; Niagara ",
+      "web" : "http://www.panoramio.com/photo/46510404",
+      "upload_date" : "14 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -79.078431, 43.079499 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/44363666.jpg",
+      "name" : "Jardin de Claude Monet Giverny-To Mahdi Kalhor",
+      "web" : "http://www.panoramio.com/photo/44363666",
+      "upload_date" : "29 November 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 1.5267880000000105, 49.077287 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/72192533.jpg",
+      "name" : "Looking at the mirror",
+      "web" : "http://www.panoramio.com/photo/72192533",
+      "upload_date" : "16 May 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -8.669391, 41.148039 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/45535494.jpg",
+      "name" : "Sand-Driving - Sea Of Sand",
+      "web" : "http://www.panoramio.com/photo/45535494",
+      "upload_date" : "25 December 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 32.33182, 30.758691 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/775893.jpg",
+      "name" : "Leoparden",
+      "web" : "http://www.panoramio.com/photo/775893",
+      "upload_date" : "11 February 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 36.046829, -3.818353 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/46817889.jpg",
+      "name" : "Tepa, Wallis Island",
+      "web" : "http://www.panoramio.com/photo/46817889",
+      "upload_date" : "20 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -176.189809, -13.319555 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/67807735.jpg",
+      "name" : "Nature at it's best! - in Porvoo ~ Finland  ....{by Bassam}",
+      "web" : "http://www.panoramio.com/photo/67807735",
+      "upload_date" : "02 March 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.870433, 60.258264 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/90083080.jpg",
+      "name" : "The colors of Atlantis ... (Oia - Santorini - Greece)",
+      "web" : "http://www.panoramio.com/photo/90083080",
+      "upload_date" : "10 May 2013",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 25.373027, 36.460295 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/47594975.jpg",
+      "name" : "远眺富士山 Overlooking Mount Fuji",
+      "web" : "http://www.panoramio.com/photo/47594975",
+      "upload_date" : "05 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 138.95496000000003, 35.285626 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/47340011.jpg",
+      "name" : "Fisherman's Bastion",
+      "web" : "http://www.panoramio.com/photo/47340011",
+      "upload_date" : "30 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.033957999999984, 47.502973 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/90724706.jpg",
+      "name" : "GER Rakotzsee (Rhododendronpark Kromlau) Rakotzbruecke -1 by KWOT ♥♥♥♥♥♥♥♥♥♥",
+      "web" : "http://www.panoramio.com/photo/90724706",
+      "upload_date" : "23 May 2013",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 14.641151, 51.536005 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/72962126.jpg",
+      "name" : "Walking on a Golden Mirror - Sunrise on the Beach (Hilton Head Island, SC) Summer 2011",
+      "web" : "http://www.panoramio.com/photo/72962126",
+      "upload_date" : "31 May 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -80.747568, 32.141527 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/70206549.jpg",
+      "name" : "Al-Masjid Al-Haram - Mecca...{more info below the photo}..better at full size  ...{by Bassam}",
+      "web" : "http://www.panoramio.com/photo/70206549",
+      "upload_date" : "13 April 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 39.82557, 21.42208 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/77706532.jpg",
+      "name" : "Тунель кохання / Тunnel of love",
+      "web" : "http://www.panoramio.com/photo/77706532",
+      "upload_date" : "25 August 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 26.043975, 50.750559 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/47322091.jpg",
+      "name" : "Otra increible vista de los lagos argentinos...Thanks for 985 likes, 212 favorites and 200.030 views.",
+      "web" : "http://www.panoramio.com/photo/47322091",
+      "upload_date" : "30 January 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -71.50363, -41.06216 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/84456933.jpg",
+      "name" : "MUĞLA - Datça, Termal göl - Taşlık plajı & Yansımalar...10...!!!       _yemtaş©_",
+      "web" : "http://www.panoramio.com/photo/84456933",
+      "upload_date" : "08 January 2013",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 27.685482, 36.719735 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/44811291.jpg",
+      "name" : " The colors of my childhood  - Medias, Romania",
+      "web" : "http://www.panoramio.com/photo/44811291",
+      "upload_date" : "09 December 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.354801, 46.162578 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48550099.jpg",
+      "name" : "il guardiano del gregge",
+      "web" : "http://www.panoramio.com/photo/48550099",
+      "upload_date" : "23 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 13.209021000000007, 42.829873 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/60952338.jpg",
+      "name" : "POL Gdansk Park near Napoleon's Fortress by KWOT {Subtitle: EARTH PHOTO by KWOT} ♥♡♥♡♥♡♥♡♥♡ ",
+      "web" : "http://www.panoramio.com/photo/60952338",
+      "upload_date" : "22 October 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 18.637387999999987, 54.35691 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/53565514.jpg",
+      "name" : "Popocatepetl by Mel Figueroa ",
+      "web" : "http://www.panoramio.com/photo/53565514",
+      "upload_date" : "01 June 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -98.777076, 18.924018 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/72786519.jpg",
+      "name" : "MACAÉ, RIO DE JANEIRO, BRAZIL-RYDOJ-1935",
+      "web" : "http://www.panoramio.com/photo/72786519",
+      "upload_date" : "27 May 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -41.883281, -22.331455 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/40161688.jpg",
+      "name" : "Corfu! (Old Town)",
+      "web" : "http://www.panoramio.com/photo/40161688",
+      "upload_date" : "01 September 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 19.924564000000004, 39.628069 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/3749005.jpg",
+      "name" : "Once in a Blue Moon....",
+      "web" : "http://www.panoramio.com/photo/3749005",
+      "upload_date" : "05 August 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -105.65408, 40.29456 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/26900069.jpg",
+      "name" : "Holstentor & Rosen",
+      "web" : "http://www.panoramio.com/photo/26900069",
+      "upload_date" : "16 September 2009",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.678609, 53.866121 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/47480048.jpg",
+      "name" : "Fire and Water-unusual sunset. Dead Horse Point State Park, Utah (please wide open)",
+      "web" : "http://www.panoramio.com/photo/47480048",
+      "upload_date" : "02 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -109.740586, 38.472608 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/83147266.jpg",
+      "name" : "Looking for the Summer  / Следы на скамейках",
+      "web" : "http://www.panoramio.com/photo/83147266",
+      "upload_date" : "08 December 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 24.172561, 56.911644 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/79712097.jpg",
+      "name" : "First Snow above Zernez {Swiss National Park}",
+      "web" : "http://www.panoramio.com/photo/79712097",
+      "upload_date" : "29 September 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.094828, 46.70057 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/67811698.jpg",
+      "name" : "Mogotes en  Valle de Viñales, Patrimonio de la Humanidad",
+      "web" : "http://www.panoramio.com/photo/67811698",
+      "upload_date" : "02 March 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -83.724261, 22.596692 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/20768281.jpg",
+      "name" : "Floating",
+      "web" : "http://www.panoramio.com/photo/20768281",
+      "upload_date" : "03 April 2009",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 118.571749, 4.34532 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/61601932.jpg",
+      "name" : "The Scene of a Fairy Tale",
+      "web" : "http://www.panoramio.com/photo/61601932",
+      "upload_date" : "03 November 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -78.706055, 45.565025 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/17350379.jpg",
+      "name" : "Langhe - Grinzane Cavour castle at sunset. - Il castello di Grinzane.",
+      "web" : "http://www.panoramio.com/photo/17350379",
+      "upload_date" : "01 January 2009",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 8.007145, 44.652658 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/76601366.jpg",
+      "name" : "Strong Thunderstorm with great Lightning over Lake Murten",
+      "web" : "http://www.panoramio.com/photo/76601366",
+      "upload_date" : "05 August 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 7.114231, 46.924372 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/48565346.jpg",
+      "name" : "Look closely at what surrounds us",
+      "web" : "http://www.panoramio.com/photo/48565346",
+      "upload_date" : "23 February 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -112.122302, 36.064893 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/673131.jpg",
+      "name" : "Nivane in Ørsta",
+      "web" : "http://www.panoramio.com/photo/673131",
+      "upload_date" : "03 February 2007",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 6.104708, 62.224716 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/59363151.jpg",
+      "name" : "SALT LAKE-TUZGÖLÜ ",
+      "web" : "http://www.panoramio.com/photo/59363151",
+      "upload_date" : "21 September 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 33.467445, 38.988502 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/53975262.jpg",
+      "name" : "Tranquility in the town!",
+      "web" : "http://www.panoramio.com/photo/53975262",
+      "upload_date" : "10 June 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -80.969378, 43.376567 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/63431453.jpg",
+      "name" : "Playa Paraiso Tulum by Mel Figueroa",
+      "web" : "http://www.panoramio.com/photo/63431453",
+      "upload_date" : "12 December 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -87.433223, 20.201484 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/49713618.jpg",
+      "name" : "Victoria Harbour 2009: Colour - Like No Other",
+      "web" : "http://www.panoramio.com/photo/49713618",
+      "upload_date" : "19 March 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 114.169557, 22.292968 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/61814434.jpg",
+      "name" : "Golgota -  by nino evola",
+      "web" : "http://www.panoramio.com/photo/61814434",
+      "upload_date" : "07 November 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 10.503273000000007, 44.589275 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/90406198.jpg",
+      "name" : "昆明　九郷風景区",
+      "web" : "http://www.panoramio.com/photo/90406198",
+      "upload_date" : "17 May 2013",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 103.380833, 25.069118 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/71290650.jpg",
+      "name" : "Haiphong Exhibition Hall",
+      "web" : "http://www.panoramio.com/photo/71290650",
+      "upload_date" : "02 May 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 106.718426, 20.784827 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/81678379.jpg",
+      "name" : "Badshahi Masjid Lahore",
+      "web" : "http://www.panoramio.com/photo/81678379",
+      "upload_date" : "05 November 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 74.309393, 31.587858 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/63318801.jpg",
+      "name" : "mandalay",
+      "web" : "http://www.panoramio.com/photo/63318801",
+      "upload_date" : "10 December 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 96.061432, 21.891817 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/50429544.jpg",
+      "name" : "*TOAU*",
+      "web" : "http://www.panoramio.com/photo/50429544",
+      "upload_date" : "03 April 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -145.922127, -15.882258 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+      "name" : "Make way!!! I`m in a rush!      ;-)",
+      "web" : "http://www.panoramio.com/photo/60931793",
+      "upload_date" : "21 October 2011",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 16.636562, -18.949349 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/45705927.jpg",
+      "name" : "...in the middle of Lappland ...",
+      "web" : "http://www.panoramio.com/photo/45705927",
+      "upload_date" : "28 December 2010",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 22.887611, 66.740688 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/75094574.jpg",
+      "name" : "Praia do Camilo, ponta da Piedade- Lagos",
+      "web" : "http://www.panoramio.com/photo/75094574",
+      "upload_date" : "09 July 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ -8.667241, 37.084865 ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
+      "image" : "http://mw2.google.com/mw-panoramio/photos/medium/82190899.jpg",
+      "name" : " Петергоф",
+      "web" : "http://www.panoramio.com/photo/82190899",
+      "upload_date" : "17 November 2012",
+      "px_categories" : "social,photo,panoramio",
+      "px_service" : "panoramio"
+    },
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 29.908472, 59.885306 ]
+    }
+  } ]
+}

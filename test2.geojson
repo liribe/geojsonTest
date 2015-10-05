@@ -21,7 +21,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -32,7 +39,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -43,7 +57,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -54,7 +75,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -65,7 +93,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -76,7 +111,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [

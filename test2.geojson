@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "image": "http://mw2.google.com/mw-panoramio/photos/medium/60931793.jpg",
+        "name": "Make way!!! I`m in a rush!      ;-)",
+        "web": "http://www.panoramio.com/photo/60931793",
+        "upload_date": "21 October 2011",
+        "px_categories": "social,photo,panoramio",
+        "px_service": "panoramio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.4532,
+          32.6271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.5142879486084,
+          32.63005072273103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.33945620059966,
+          32.568203959247356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.0762939453125,
+          32.55144352864431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.37429809570311,
+          32.47559140897866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.38837432861328,
+          32.51844703755765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.01586914062499,
+          32.288293580436644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.12435913085936,
+          32.45299712004732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.86480712890626,
+          31.0294013530289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.55591583251952,
+          32.601783214045184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.47025680541992,
+          32.567503221655535
+        ]
+      }
+    }
+  ]
+}
